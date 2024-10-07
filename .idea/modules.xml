@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nota01/nota01.iml" filepath="$PROJECT_DIR$/nota01/nota01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nota01.1/nota01.1.iml" filepath="$PROJECT_DIR$/nota01.1/nota01.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nota02/nota02.iml" filepath="$PROJECT_DIR$/nota02/nota02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nota02.2/nota02.2.iml" filepath="$PROJECT_DIR$/nota02.2/nota02.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nota03/nota03.iml" filepath="$PROJECT_DIR$/nota03/nota03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nota03.3/nota03.3.iml" filepath="$PROJECT_DIR$/nota03.3/nota03.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto.iml" filepath="$PROJECT_DIR$/projeto.iml" />
+    </modules>
+  </component>
+</project>
